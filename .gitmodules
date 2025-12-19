@@ -1,0 +1,3 @@
+[submodule "ddq-data-paper"]
+	path = ddq-data-paper
+	url = https://github.com/pczarnecki/ddq-data-paper.git
