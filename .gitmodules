@@ -1,3 +1,6 @@
 [submodule "ddq-data-paper"]
 	path = ddq-data-paper
 	url = https://github.com/pczarnecki/ddq-data-paper.git
+[submodule "pyarts-fluxes"]
+	path = pyarts-fluxes
+	url = https://github.com/atmtools/pyarts-fluxes.git
